@@ -33,8 +33,6 @@ Endpoint: [http://localhost:3333/especialidades](http://localhost:3333/especiali
 Exemplo:
 
 ![IndexMedicos.png](images/IndexEspecialidades.png)
-=======
-![](Documentação API do MedicalManagement 963ad5a1937c43da83b51a57dc311720/Untitled.png)
 
 **Medicos**:
 
