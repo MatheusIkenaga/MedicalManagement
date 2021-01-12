@@ -102,11 +102,11 @@ module.exports = {
 
         const medico = await Medico.findByPk(id)
         if(!medico){
-            return res.status(400).json({error: 'Medico não encontrato'})
+            return res.status(400).json({error: 'Medico não encontrado'})
         }
         await Medico.destroy({ where: { id: `${id}` }})
 
-        return res.json()
+        return res.json({message:'médico excluído'})
 
     },
 
