@@ -126,7 +126,7 @@ No corpo da requisição deve ser enviado o id do médico a ser atualizado e tod
 ```json
 {
 
-	"id": int
+	"id": int,
 	"nome": string[120],
 	"crm": int[8],
 	"tel_fixo": int[11],
