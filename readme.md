@@ -32,11 +32,9 @@ Endpoint: [http://localhost:3333/especialidades](http://localhost:3333/especiali
 
 Exemplo:
 
-<<<<<<< HEAD
 ![IndexMedicos.png](images/IndexEspecialidades.png)
 =======
 ![](Documentação API do MedicalManagement 963ad5a1937c43da83b51a57dc311720/Untitled.png)
->>>>>>> 4f44c6775adbe6f2b1364b73b22dd70bc82686ba
 
 **Medicos**:
 
@@ -147,8 +145,7 @@ No corpo da requisição deve ser enviado o id do médico a ser atualizado e tod
 
 }
 ```
-<<<<<<< HEAD
+
 
 ![atualizaMedico.png](images/atualizaMedico.png)
-=======
->>>>>>> 4f44c6775adbe6f2b1364b73b22dd70bc82686ba
+
