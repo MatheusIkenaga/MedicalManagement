@@ -113,7 +113,7 @@ No corpo da requisição deve ser enviado os seguintes campos:
 
 Exemplo:
 
-![insertMedico.png](images/insertMedico.png)
+![InsertMedico.png](images/InsertMedico.png)
 
 **AtualizaMedico**
 
