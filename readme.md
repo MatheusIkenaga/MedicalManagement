@@ -32,7 +32,7 @@ Endpoint: [http://localhost:3333/especialidades](http://localhost:3333/especiali
 
 Exemplo:
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled.png)
+![](Documentação API do MedicalManagement 963ad5a1937c43da83b51a57dc311720/Untitled.png)
 
 **Medicos**:
 
