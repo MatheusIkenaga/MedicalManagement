@@ -32,7 +32,7 @@ Endpoint: [http://localhost:3333/especialidades](http://localhost:3333/especiali
 
 Exemplo:
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled.png)
+![IndexMedicos.png](images/IndexEspecialidades.png)
 
 **Medicos**:
 
@@ -44,7 +44,7 @@ Método: GET
 
 Endpoint: [http://localhost:3333/medicos](http://localhost:3333/medicos)
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%201.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%201.png)
+![IndexMedicos.png](images/IndexMedicos.png)
 
 **ConsultarPorEspecialidade**
 
@@ -56,7 +56,7 @@ Endpoint [http://localhost:3333/medicosespecialistas/](http://localhost:3333/med
 
 Exemplo: [http://localhost:3333/medicosespecialistas/CIRURGIA_CABEÇA_E_PESCOÇO](http://localhost:3333/medicosespecialistas/CIRURGIA_CABE%C3%87A_E_PESCO%C3%87O)
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%202.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%202.png)
+![ConsultaPorEspecialidade.png](images/ConsultaPorEspecialidade.png)
 
 **ConsultarMedico**
 
@@ -67,7 +67,7 @@ Endpoint [http://localhost:3333/medicos/](http://localhost:3333/medicos/Doutor_t
 
 Exemplo: [http://localhost:3333/medicos/Doutor_tal3](http://localhost:3333/medicos/Doutor_tal3)
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%203.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%203.png)
+![ConsultarMedico.png](images/ConsultarMedico.png)
 
 **DeletarMedico**
 
@@ -79,7 +79,7 @@ Endpoint: [http://localhost:3333/deletarMedico](http://localhost:3333/deletarMed
 
 Deve ser enviado no body o ID do médico:
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%204.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%204.png)
+![deletarMedico.png](images/deletarMedico.png)
 
 **InsertMedico**
 
@@ -111,9 +111,9 @@ No corpo da requisição deve ser enviado os seguintes campos:
 
 Exemplo:
 
-![Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%205.png](Documentac%CC%A7a%CC%83o%20API%20do%20MedicalManagement%20963ad5a1937c43da83b51a57dc311720/Untitled%205.png)
+![insertMedico.png](images/insertMedico.png)
 
-AtualizMedico
+**AtualizaMedico**
 
 Para atualização do Médico na base de dados:
 
@@ -143,3 +143,5 @@ No corpo da requisição deve ser enviado o id do médico a ser atualizado e tod
 
 }
 ```
+
+![atualizaMedico.png](images/atualizaMedico.png)
